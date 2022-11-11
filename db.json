@@ -140,5 +140,51 @@
   "offer":"61% OFF",
   "price":"635,00"
 }
+],
+"eightbyyoox":[
+  {
+    "id":1,
+    "url": "https://www.yoox.com/images/items/14/14270805CJ_14_f.jpg?impolicy=crop&width=306&height=390",
+    "brand":"8 BY TRENDZ",
+    "title":"Sweater",
+    "price":"140,00"
+  },
+  {
+    "id":2,
+    "url": "https://www.yoox.com/images/items/17/17308140QS_14_f.jpg?impolicy=crop&width=306&height=390",
+    "brand":"8 BY TRENDZ",
+    "title":"Loafers",
+    "price":"119,00"
+  },
+  {
+    "id":3,
+    "url": "https://www.yoox.com/images/items/13/13887122LP_14_f.jpg?impolicy=crop&width=306&height=390",
+    "brand":"8 BY TRENDZ",
+    "title":"Midi Skirt",
+    "price":"108,00"
+  },
+  {
+    "id":4,
+    "url": "https://www.yoox.com/images/items/14/14275963KQ_14_f.jpg?impolicy=crop&width=306&height=390",
+    "brand":"8 BY TRENDZ",
+    "title":"Sweater",
+    "price":"154,00"
+  },
+  {
+    "id":5,
+    "url": "https://www.yoox.com/images/items/13/13906816CJ_14_f.jpg?impolicy=crop&width=306&height=390",
+    "brand":"8 BY TRENDZ",
+    "title":"Denim Pants",
+    "price":"120,00"
+  },
+  {
+    "id":6,
+    "url": "https://www.yoox.com/images/items/16/16167703EE_14_f.jpg?impolicy=crop&width=306&height=390",
+    "brand":"8 BY TRENDZ",
+    "title":"Shell Jackets",
+    "price":"154,00"
+  }
+  
+  
 ]
 }
