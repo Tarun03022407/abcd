@@ -66,5 +66,79 @@
     "offer":"49% OFF",
     "price":"414,00"
   }
+],
+"oneofakind":[
+  {
+    "id": 1,
+    "url": "https://www.yoox.com/images/items/50/50288703MS_14_f.jpg?impolicy=crop&width=306&height=390",
+    "brand":"CHLOE",
+    "title":"Pendant",
+    "offer":"36% OFF",
+    "price":"37,00"
+},
+{
+  "id": 2,
+  "url": "https://www.yoox.com/images/items/16/16157930OH_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"MARNI",
+  "title":"Coat",
+  "offer":"56% OFF",
+  "price":"962,00"
+},
+{
+  "id": 3,
+  "url": "https://www.yoox.com/images/items/45/45698461RJ_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"NANUSHKA",
+  "title":"Handbag",
+  "offer":"48% OFF",
+  "price":"112,00"
+},
+{
+  "id": 4,
+  "url": "https://www.yoox.com/images/items/17/17366392GE_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"GIANVITTO ROSSI",
+  "title":"Ankle Boot",
+  "offer":"38% OFF",
+  "price":"848,00"
+},
+{
+  "id": 5,
+  "url": "https://www.yoox.com/images/items/16/16169848HN_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"ISABEL MARANT ETOILE",
+  "title":"Coat",
+  "offer":"65% OFF",
+  "price":"210,00"
+},
+{
+  "id": 6,
+  "url": "https://www.yoox.com/images/items/17/17358702KX_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"CHLOE",
+  "title":"Boots",
+  "offer":"48% OFF",
+  "price":"340,00"
+},
+{
+  "id": 7,
+  "url": "https://www.yoox.com/images/items/49/49764634UT_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"LISA MARIE FERNANDIS",
+  "title":"Blaizer",
+  "offer":"51% OFF",
+  "price":"188,00"
+},
+{
+  "id": 8,
+  "url": "https://www.yoox.com/images/items/46/46864723JN_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"ROCHAS",
+  "title":"Hat",
+  "offer":"48% OFF",
+  "price":"183,00"
+},
+{
+  "id": 9,
+  "url": "https://www.yoox.com/images/items/13/13859882NF_14_f.jpg?impolicy=crop&width=306&height=390",
+  "brand":"VALENTINO",
+  "title":"Mini Skirt",
+  "offer":"61% OFF",
+  "price":"635,00"
+}
 ]
 }
